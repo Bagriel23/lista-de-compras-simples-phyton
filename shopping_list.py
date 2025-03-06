@@ -95,7 +95,8 @@ def get_unit(units):
 
 def main():
 # Função principal que executa o loop de interação com o usuário.
-5
+    print("--- Bem vindo a Lista de compras simples! ---")
+
     while True:
         show_menu()
 
